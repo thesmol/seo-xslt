@@ -49,12 +49,3 @@ npm run preview
 
 Приложение: addons/task5/...
 ```
-
-## Публикация через SSH
-
-```sh
-git remote set-url origin git@github.com:thesmol/seo-xslt.git
-git push origin main:main main:gh-pages
-```
-
-GitHub Pages публикует ветку `gh-pages`.
