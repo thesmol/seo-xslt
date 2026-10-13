@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
+<urlset>
+		<url>
+			<loc>https://www.m24.ru/articles/</loc>
+			<lastmod>2018-10-04T03:55:01+00:00</lastmod>
+			<changefreq>daily</changefreq>
+			<priority>1.0</priority>
+		</url>
+		<url>
+			<loc>https://www.m24.ru/news/</loc>
+			<lastmod>2018-10-04T03:55:01+00:00</lastmod>
+			<changefreq>daily</changefreq>
+			<priority>1.0</priority>
+		</url>
+		<url>
+			<loc>https://www.m24.ru/videos/</loc>
+			<lastmod>2018-10-04T03:55:01+00:00</lastmod>
+			<changefreq>daily</changefreq>
+			<priority>1.0</priority>
+		</url>
+		<url>
+			<loc>https://www.m24.ru/audios/</loc>
+			<lastmod>2018-10-04T03:55:01+00:00</lastmod>
+			<changefreq>daily</changefreq>
+			<priority>1.0</priority>
+		</url>
+		<url>
+			<loc>https://www.m24.ru/infographics/</loc>
+			<lastmod>2018-10-04T03:55:01+00:00</lastmod>
+			<changefreq>daily</changefreq>
+			<priority>1.0</priority>
+		</url>
+		<url>
+			<loc>https://www.m24.ru/galleries/</loc>
+			<lastmod>2018-10-04T03:55:01+00:00</lastmod>
+			<changefreq>daily</changefreq>
+			<priority>1.0</priority>
+		</url>
+		<url>
+			<loc>https://www.m24.ru/broadcasts/</loc>
+			<lastmod>2018-10-04T03:55:01+00:00</lastmod>
+			<changefreq>daily</changefreq>
+			<priority>1.0</priority>
+		</url>
+		<url>
+			<loc>https://www.m24.ru/library/</loc>
+			<lastmod>2018-10-04T03:55:01+00:00</lastmod>
+			<changefreq>daily</changefreq>
+			<priority>1.0</priority>
+		</url>
+</urlset>
